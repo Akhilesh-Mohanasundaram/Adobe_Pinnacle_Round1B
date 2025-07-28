@@ -75,7 +75,7 @@ Follow these steps to process the set of documents located in the `test` directo
 
 Run the pipeline using the `docker run` command. This command uses **volume mounts** (`-v`) to link the files from your local `test` directory to the directories inside the container.
 
-Run the command below, replacing `"YOUR_FULL_PATH_TO_PROJECT"` with the absolute path you just copied.
+Run the command below, replacing `"YOUR_FULL_PATH_TO_PROJECT"` with the absolute path to the project.
 
 #### **For Windows (PowerShell):**
 
