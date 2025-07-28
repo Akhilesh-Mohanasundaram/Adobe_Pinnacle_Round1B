@@ -1,4 +1,4 @@
-# 📄 Persona-Based PDF Content Analysis Pipeline
+# ⚙️ Persona-Based PDF Content Analysis Pipeline
 
 ## 1. Overview
 
@@ -39,7 +39,7 @@ For the pipeline to work correctly, your project should be organized as follows:
 
 ---
 
-## 3. Prerequisites
+## 3. 🛠️ System Prerequisites
 
 ### Step 3.1: Install Prerequisites
 Ensure you have the following software installed on your system:
@@ -51,9 +51,7 @@ Ensure you have the following software installed on your system:
 Clone this project to your local machine using Git, then navigate into the newly created project directory.
 ```bash
 git clone https://github.com/Jothika1526/Adobe_Pinnacle_Round1B
-cd solution_round1b
-
----
+```
 
 ## 4. One-Time Setup
 
@@ -69,7 +67,7 @@ docker build -t my-app .
 
 ---
 
-## 5. Running the Pipeline with Your Test Case
+## 5. 🚀 Running the Pipeline
 
 Follow these steps to process the set of documents located in the `test` directory.
 
@@ -126,7 +124,7 @@ docker run --rm \
 
 ---
 
-## 6. Pipeline Workflow
+## 6. 📄 Pipeline Workflow
 
 The `main_workflow.py` script orchestrates the execution of the pipeline in the following sequence:
 
