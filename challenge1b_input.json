@@ -1,0 +1,43 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_002",
+        "test_case_name": "travel_planner",
+        "description": "France Travel"
+    },
+    "documents": [
+        {
+            "filename": "1.pdf",
+            "title": "South of France - Cities"
+        },
+        {
+            "filename": "2.pdf",
+            "title": "South of France - Cuisine"
+        },
+        {
+            "filename": "3.pdf",
+            "title": "South of France - History"
+        },
+        {
+            "filename": "4.pdf",
+            "title": "South of France - Restaurants and Hotels"
+        },
+        {
+            "filename": "5.pdf",
+            "title": "South of France - Things to Do"
+        },
+        {
+            "filename": "6.pdf",
+            "title": "South of France - Tips and Tricks"
+        },
+        {
+            "filename": "7.pdf",
+            "title": "South of France - Traditions and Culture"
+        }
+    ],
+    "persona": {
+        "role": "Travel Planner"
+    },
+    "job_to_be_done": {
+        "task": "Plan a trip of 4 days for a group of 10 college friends."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_003",
+        "test_case_name": "financial_analyst_ev",
+        "description": "EV Market Analysis"
+    },
+    "documents": [
+        {
+            "filename": "Global_EV_Market_Trends_2024.pdf",
+            "title": "Global EV Market Trends 2024"
+        },
+        {
+            "filename": "Advancements_in_EV_Battery_Technology_and_Supply_Chain.pdf",
+            "title": "Advancements in EV Battery Technology and Supply Chain"
+        },
+        {
+            "filename": "Consumer_Adoption_and_Behavior_An_Investor's_Perspective.pdf",
+            "title": "Consumer Adoption and Behavior: An Investor's Perspective"
+        },
+        {
+            "filename": "Regulatory_Landscape_and_Government_Incentives_A_Financial_Analysis.pdf",
+            "title": "Regulatory Landscape and Government Incentives: A Financial Analysis"
+        },
+        {
+            "filename": "Tesla_Inc_Company_Profile_and_Financials.pdf",
+            "title": "Tesla, Inc. - Company Profile and Financials"
+        }
+    ],
+    "persona": {
+        "role": "Financial Analyst"
+    },
+    "job_to_be_done": {
+        "task": "Identify the key financial risks and growth opportunities in the electric vehicle market for a potential investor."
+    }
+}
