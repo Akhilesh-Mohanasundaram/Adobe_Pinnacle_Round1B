@@ -50,14 +50,14 @@ Ensure you have the following software installed on your system:
 ### Step 3.2: Clone the Repository
 Clone this project to your local machine using Git, then navigate into the newly created project directory.
 ```bash
-git clone https://github.com/Jothika1526/Adobe_Pinnacle_Round1B
+git clone https://github.com/Akhilesh-Mohanasundaram/Adobe_Pinnacle_Round1B
 ```
 
 ## 4. One-Time Setup
 
 Before running the pipeline for the first time, you need to download the necessary machine learning models and build the Docker image.
 
-### Step 4.1: Build the Docker Image
+## Build the Docker Image
 
 Build the Docker image using the `docker build` command. We'll tag it as `my-app`. This process packages all scripts, models, and dependencies into a self-contained image.
 
